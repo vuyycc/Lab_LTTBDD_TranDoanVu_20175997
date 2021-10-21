@@ -1,2 +1,0 @@
- https://developer.android.com/codelabs/android-training-layout-editor-part-a#0
-https://developer.android.com/codelabs/android-training-layout-editor-part-b#0
