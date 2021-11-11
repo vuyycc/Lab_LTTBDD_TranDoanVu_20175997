@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="results">0</string>
+    <string name="lb1">+/-</string>
+    <string name="zeros">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="bang">=</string>
+    <string name="cong">+</string>
+    <string name="tru">-</string>
+    <string name="nhan">×</string>
+    <string name="chia">÷</string>
+    <string name="can2">\u00b2\u221a</string>
+    <string name="x2">x\u00b2</string>
+    <string name="motTrenX">1/x</string>
+    <string name="ce">CE</string>
+    <string name="phantram">%</string>
+    <string name="c">C</string>
+    <string name="xoa">\u232b</string>
+    <string name="mc">MC</string>
+    <string name="mr">MR</string>
+    <string name="mCong">M+</string>
+    <string name="mTru">M-</string>
+    <string name="ms">MS</string>
+    <string name="mSao">M*</string>
+    <string name="cham">.</string>
+</resources>
