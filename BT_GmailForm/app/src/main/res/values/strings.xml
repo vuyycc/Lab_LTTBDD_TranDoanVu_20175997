@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GmailForm</string>
+    <string name="tite">Touch a sender image to select that conversation</string>
+</resources>
